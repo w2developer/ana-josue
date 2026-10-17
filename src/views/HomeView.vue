@@ -7,7 +7,7 @@
                     <h2 class="pre-title">Celebre conosco o casamento de</h2>
                     <h1 class="names">Ana <span class="ampersand">&</span> Josué</h1>
                     <div class="divider"></div>
-                    <p class="date">27 de Novembro de 2026</p>
+                    <p class="date">22 de Janeiro de 2027</p>
                 </div>
             </div>
         </section>
