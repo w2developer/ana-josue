@@ -86,7 +86,7 @@
                 <div v-else class="pix-container">
                     <p class="pix-thanks">Obrigado, <strong>{{ formPresente.nome }}</strong>! ❤️</p>
                     <p class="pix-instrucoes">Copie a chave abaixo e realize o PIX pelo seu banco:</p>
-                    <div class="pix-key">sua-chave-pix-aqui@email.com</div>
+                    <div class="pix-key">99991766955</div>
                     <button @click="fecharModal" class="btn-submit mt-2">Pronto, já paguei!</button>
                 </div>
             </div>
