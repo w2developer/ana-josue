@@ -61,7 +61,7 @@
                 
                 <div class="cards-grid">
                     <div class="gift-card" v-for="valor in valores" :key="valor">
-                        <div class="card-ornament">🌿</div>
+                        <div class="card-ornament">🎁</div>
                         <h3 class="card-title">Cartão Presente</h3>
                         <p class="card-price">R$ {{ valor }},00</p>
                         <button @click="abrirModal(valor)" class="btn-gift">Presentear</button>
